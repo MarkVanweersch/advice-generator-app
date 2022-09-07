@@ -85,3 +85,15 @@ body {
   top: 50%;
   transform: translate(-50%, -50%);
 }
+
+.attribution {
+  text-align: center;
+  color: var(--clr-primary-cyan);
+  position: absolute;
+  bottom: 10px;
+  font-size: 14px;
+}
+
+.attribution a {
+  color: inherit;
+}
