@@ -36,8 +36,8 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor.io](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-using-fetch-api-KtUXO4Z2fJ)
+- Live Site URL: [MarkVanweerscg.GitHub.io](https://markvanweersch.github.io/advice-generator-app/)
 
 ## My process
 
